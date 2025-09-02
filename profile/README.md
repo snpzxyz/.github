@@ -70,4 +70,5 @@ We welcome all forms of contributions:
 <p align="center">
   Made with ❤️ for developers <br/>
   <b>Elvin Suleymanov</b>
+  <b>snpz.xyz</b>
 </p>
