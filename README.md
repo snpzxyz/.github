@@ -1,2 +1,0 @@
-# .github
-ABOUT PROJECT README
